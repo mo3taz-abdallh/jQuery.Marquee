@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "homepage": "https://github.com/aamirafridi/jQuery.Marquee",
   "authors": [
-     "AamirAfridi.com"
+    "name": "AamirAfridi.com"
   ],
   "description": "jQuery plugin to scroll the text like the old traditional marquee. NOW with CSS3 support.",
   "main": "jquery.marquee.min.js",
@@ -12,12 +12,5 @@
       "type": "MIT",
       "url": "http://opensource.org/licenses/MIT"
     }
-  ],
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
   ]
 }
